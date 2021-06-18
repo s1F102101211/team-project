@@ -31,3 +31,7 @@ margin: 10px 0 10px 0;}
     display: flex;
     flex-direction: row;
   }
+  .train{background-color: green;
+    font: size 30px;
+    text-align: center;
+    color:white;}
