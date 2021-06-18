@@ -1,0 +1,33 @@
+.top{background-color: royalblue;
+font: size 30px;
+text-align: center;
+color:white;}
+.letter{color:white;}
+.sidebar{width:30%;
+margin: 10px 0 10px 0;}
+.sidebar ul {
+    margin: 0px;
+    padding: 0 10px 0 10px;
+  }
+  .sidebar li {
+    display: block;
+    margin: 0px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    background-color: #cccccc;
+    margin-right:10px
+  }
+  .content {
+    width: 70%;
+    margin: 10px 0 10px 0;
+  }
+  div.intro {
+    margin-top:10px;
+    margin-right:10px;
+    padding: 10px 10px 10px 10px;
+    border: solid 2px #696767;
+    background-color: #ffffff;
+  }
+  #container {
+    display: flex;
+    flex-direction: row;
+  }
