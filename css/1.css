@@ -31,7 +31,15 @@ margin: 10px 0 10px 0;}
     display: flex;
     flex-direction: row;
   }
-  .train{background-color: green;
-    font: size 30px;
-    text-align: center;
-    color:white;}
+.train{background-color: green;
+  font: size 30px;
+  text-align: center;
+  color:white;}
+.food{background-color: rgb(255, 94, 0);
+  font: size 30px;
+  text-align: center;
+  color:white;}
+.hotel{background-color: rgb(5, 253, 253);
+  font: size 30px;
+  text-align: center;
+  color:white;}
